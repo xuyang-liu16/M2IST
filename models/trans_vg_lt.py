@@ -21,7 +21,7 @@ class TransVG(nn.Module):
         # 共享的adapters
         shared_adapters = nn.ModuleList([
             ShareAdapter(d_model=128, bottleneck=256)
-            for i in range(6)])
+            for i in range(6)]) # 在这里改怎么插
         
         # shared_adapters_mlp = nn.ModuleList([
         #     ShareAdapter(d_model=128, bottleneck=256)
