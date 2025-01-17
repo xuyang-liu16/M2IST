@@ -48,7 +48,7 @@ Please refer to [GETTING_STARGTED.md](GETTING_STARTED.md) to learn how to prepar
     ```
 
 ### :thumbsup: Acknowledge
-This codebase is partially based on [TransVG](https://github.com/djiajunustc/TransVG) and [DARA](https://github.com/liuting20/DARA).
+We extend our gratitude to the open-source efforts of [TransVG](https://github.com/djiajunustc/TransVG) and [DARA](https://github.com/liuting20/DARA).
 
 
 ## :pushpin: Citation
@@ -63,3 +63,6 @@ Please consider citing our paper in your publications, if our findings help your
       primaryClass={cs.CV}
 }
 ```
+
+## 📩 Contact
+For any question about our paper or code, please email `liuxuyang@stu.scu.edu.cn`.
