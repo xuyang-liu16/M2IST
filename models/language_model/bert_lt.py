@@ -39,7 +39,7 @@ class BERT(nn.Module):
         # self.adapters = text_adapters
         mlp_adapters = nn.ModuleList([
             Adapter_text(d_model=768, bottleneck=128)
-            for i in range(6)])
+            for i in range(6)]) # 在这里改插入个数
 
         # lt
         self.bert = BertModel.from_pretrained('/share/home/liuting/transvg_data/bert-base-uncased',config=med_config, add_pooling_layer=False, adapter_config=config,mha_adapters=mha_adapters,mlp_adapters=mlp_adapters)
