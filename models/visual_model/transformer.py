@@ -370,7 +370,7 @@ def build_transformer(args,mha_adapters=None,mlp_adapters=None):
    
     mlp_adapters = nn.ModuleList([
             Adapter_vis(d_model=args.hidden_dim, bottleneck=128)
-            for i in range(6)])
+            for i in range(6)]) # 在这里改插入个数
 
 
     return Transformer(
