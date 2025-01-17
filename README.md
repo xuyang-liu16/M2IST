@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1> M<sup>2</sup>IST: Multi-Modal Interactive Side-Tuning for Memory-efficient Referring Expression Comprehension </h1>
+<h1> M<sup>2</sup>IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension </h1>
 
 
 <h4 align="center"> 
