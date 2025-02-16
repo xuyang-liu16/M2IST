@@ -31,6 +31,18 @@ Long Qin<sup>2</sup>,
 Please refer to [GETTING_STARGTED.md](GETTING_STARTED.md) to learn how to prepare the datasets and pretrained checkpoints.
 
 
+### :point_right: Installation
+1.  Clone this repository.
+    ```
+    git clone https://github.com/xuyang-liu16/M2IST.git
+    ```
+
+2.  Prepare for the running environment. 
+
+    ```
+     conda env create -f environment.yaml      pip install -r requirements.txt
+    ```
+
 ### :point_right: Training and Evaluation
 
 1.  Training
