@@ -40,7 +40,7 @@ Please refer to [GETTING_STARGTED.md](GETTING_STARTED.md) to learn how to prepar
 2.  Prepare for the running environment. 
 
     ```
-     conda env create -f environment.yaml      pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 ### :point_right: Training and Evaluation
