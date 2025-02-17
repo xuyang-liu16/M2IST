@@ -22,7 +22,7 @@ Long Qin<sup>2</sup>,
 </div>
 
 ## ✨ Overview
-<p align="center"> <img src="intro.jpg" width="1000" align="center"> </p>
+<p align="center"> <img src="overview.jpg" width="1000" align="center"> </p>
 
 > **TLDR:** We present M<sup>2</sup>IST, a novel parameter-efficient transfer learning method that achieves comparable or superior performance to full fine-tuning while using only **2.11%** of trainable parameters, **39.61%** of GPU memory, and **63.46%** of training time.
 
