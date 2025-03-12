@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1> M<sup>2</sup>IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension </h1>
+<h1> M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension </h1>
 
 
 <h4 align="center"> 
@@ -9,12 +9,12 @@
 [Ting Liu](https://github.com/liuting20)<sup>2*</sup>,
 [Siteng Huang](https://kyonhuang.top/)<sup>3✉</sup>,
 [Yi Xin](https://synbol.github.io/)<sup>4</sup>,
-Yue Hu<sup>2</sup>,
-Long Qin<sup>2</sup>,
+Yue Hu2,
+Long Qin2,
 [Donglin Wang](https://milab.westlake.edu.cn/)<sup>3</sup>,
 [Honggang Chen](https://sites.google.com/view/honggangchen/)<sup>1✉</sup>
 
-<sup>1</sup>Sichuan University, <sup>2</sup>National University of Defense Technology, <br>
+<sup>1</sup>Sichuan University, 2National University of Defense Technology, <br>
 <sup>3</sup>Westlake University, <sup>4</sup>Nanjing University
 
 </h4>
@@ -24,7 +24,7 @@ Long Qin<sup>2</sup>,
 ## ✨ Overview
 <p align="center"> <img src="overview.jpg" width="1000" align="center"> </p>
 
-> **TLDR:** We present M<sup>2</sup>IST, a novel parameter-efficient transfer learning method that achieves comparable or superior performance to full fine-tuning while using only **2.11%** of trainable parameters, **39.61%** of GPU memory, and **63.46%** of training time.
+> **TLDR:** We present M2IST, a novel parameter-efficient transfer learning method that achieves comparable or superior performance to full fine-tuning while using only **2.11%** of trainable parameters, **39.61%** of GPU memory, and **63.46%** of training time.
 
 ### :point_right: Getting Started
 
